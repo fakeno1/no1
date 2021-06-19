@@ -1,6 +1,6 @@
 #include<stdio.h>
 /*amazing */
-/* secong */
+/* second */
 int main()
 {
 	return 0;
